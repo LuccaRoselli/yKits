@@ -1,0 +1,32 @@
+IP: pvp.lithemc.com.br
+Scoreboard:
+- '&8'
+- '&fCoins: &a#%coins%'
+- '&fLevel(XP): &a#%xp%'
+- '&fNextLevel (XP): &a#%xprestante%'
+- '&fRank: &a%rank%'
+- '&fKit: &a%kit%'
+- '&a&a'
+- '&fKills: &e%kills%'
+- '&fDeaths: &e%deaths%'
+- '&fStreaks: &e#%ks%'
+- '&fKDR: &e%kdr%'
+- '&b'
+- '&7/score'
+- '&7www.lithemc.com.br'
+MySQL:
+  IP: 'localhost'
+  Porta: 3306
+  Database: 'testeplugin'
+  User: 'root'
+  Senha: '123456'
+FeastItems:
+- 306
+- 307
+- 308
+- 309
+- 276
+- 384
+- 282
+- 322
+- 368
